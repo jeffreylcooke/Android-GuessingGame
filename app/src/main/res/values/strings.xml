@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_newgame">New Game</string>
+    <string name="action_gamestats">Game Stats</string>
+    <string name="action_about">About</string>
+</resources>
